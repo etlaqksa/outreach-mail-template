@@ -60,7 +60,7 @@ u + #body a { color: inherit; text-decoration: none; }
 
   <!-- Logo -->
   <tbody><tr><td class="logo-plate" align="center" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:26px 24px 18px;">
-    <a href="https://www.geodrillksa.com/" target="_blank" style="text-decoration:none;"><img class="logo" src="https://drive.google.com/uc?export=view&amp;id=1jdhiauoYRPcwtpynQqGTiVPlL5U7wCJy" alt="GEODRILL KSA — Geotechnical Experts" width="220" style="display:block;width:220px;max-width:100%;height:auto;border:1px solid #EFEFEF;border-radius:10px;font-family:'Segoe UI',Tahoma,Arial,sans-serif;font-size:22px;font-weight:800;color:#F39200;"></a>
+    <a href="https://www.geodrillksa.com/" target="_blank" style="text-decoration:none;"><img class="logo" src="https://lh3.googleusercontent.com/d/1jdhiauoYRPcwtpynQqGTiVPlL5U7wCJy" alt="GEODRILL KSA — Geotechnical Experts" width="220" style="display:block;width:220px;max-width:100%;height:auto;border:1px solid #EFEFEF;border-radius:10px;font-family:'Segoe UI',Tahoma,Arial,sans-serif;font-size:22px;font-weight:800;color:#F39200;"></a>
   </td></tr>
 
   <!-- Tagline band -->
