@@ -19,7 +19,7 @@ u + #body a { color: inherit; text-decoration: none; }
   .en-m { padding-top: 0px !important; }
   .hide-m { display: none !important; }
   .show-m { display: table-cell !important; max-height: none !important; overflow: visible !important; }
-  .logo { width: 180px !important; height: auto !important; }
+  .logo { width: 240px !important; height: auto !important; }
   .qr-td { padding-bottom: 14px !important; }
   .qr-b { border-right: 0px !important; border-top: 1px solid rgb(237, 228, 211) !important; }
 }
@@ -59,8 +59,8 @@ u + #body a { color: inherit; text-decoration: none; }
 <table class="card" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="background:#FFFFFF;border-radius:14px;overflow:hidden;">
 
   <!-- Logo -->
-  <tbody><tr><td class="logo-plate" align="center" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:26px 24px 18px;">
-    <a href="https://www.geodrillksa.com/" target="_blank" style="text-decoration:none;"><img class="logo" src="https://lh3.googleusercontent.com/d/1jdhiauoYRPcwtpynQqGTiVPlL5U7wCJy" alt="GEODRILL KSA — Geotechnical Experts" width="220" style="display:block;width:220px;max-width:100%;height:auto;border:1px solid #EFEFEF;border-radius:10px;font-family:'Segoe UI',Tahoma,Arial,sans-serif;font-size:22px;font-weight:800;color:#F39200;"></a>
+  <tbody><tr><td class="logo-plate" align="center" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:20px 24px 14px;">
+    <a href="https://www.geodrillksa.com/" target="_blank" style="text-decoration:none;"><img class="logo" src="https://lh3.googleusercontent.com/d/1jdhiauoYRPcwtpynQqGTiVPlL5U7wCJy" alt="GEODRILL KSA — Geotechnical Experts" width="300" style="display:block;width:300px;max-width:100%;height:auto;border:1px solid #EFEFEF;border-radius:10px;font-family:'Segoe UI',Tahoma,Arial,sans-serif;font-size:22px;font-weight:800;color:#F39200;"></a>
   </td></tr>
 
   <!-- Tagline band -->
@@ -79,7 +79,7 @@ u + #body a { color: inherit; text-decoration: none; }
     <div style="height:8px;line-height:8px;font-size:0;">&nbsp;</div>
     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" dir="rtl"><tbody><tr>
 <td class="stack px" width="50%" valign="top" dir="rtl" align="right" style="padding:0 22px;text-align:right;"><div class="t1" style="font-family:'Segoe UI',Tahoma,Arial,sans-serif;color:#1C1917;font-size:15px;line-height:2.0;text-align:justify;">يسرّنا أن نعرّفكم بشركة <strong style="color:#C77400;">جيودريل السعودية — GEODRILL KSA</strong>، شركة هندسية متخصصة مقرّها الرياض، تعمل في مجالات الدراسات الجيوتقنية والجيولوجية والجيوفيزيائية واختبارات التربة ومواد البناء. نقدّم لعملائنا — من الجهات الحكومية وشركات المقاولات والمكاتب الاستشارية — منظومة متكاملة تبدأ من دراسة الموقع والفحص، وتمرّ بالتصميم والتحليل، وتنتهي بالمعالجة والتنفيذ، من خلال فريق هندسي متخصص ومختبر رئيسي مجهّز بالكامل في مدينة الرياض، وبأنظمة إدارة معتمدة بشهادات الآيزو (9001 للجودة، و14001 للبيئة، و45001 للسلامة المهنية).</div></td>
-<td class="stack px en" width="50%" valign="top" dir="ltr" align="left" lang="en" style="padding:0 22px;text-align:left;border-right:1px solid #EDE4D3;"><div class="t1" style="font-family:'Segoe UI',Tahoma,Arial,sans-serif;color:#1C1917;font-size:14px;line-height:1.85;text-align:justify;">We are pleased to introduce <strong style="color:#C77400;">GEODRILL KSA</strong>, a specialized engineering company based in Riyadh, operating in geotechnical, geological and geophysical investigations, as well as soil and construction materials testing. We serve government entities, contracting companies and engineering consultants with an integrated scope of work — from site investigation and testing, through design and analysis, to treatment and execution — delivered by a specialized engineering team and a fully equipped main laboratory in Riyadh, operating under ISO 9001, ISO 14001 and ISO 45001 certified management systems.</div></td>
+<td class="stack px en" width="50%" valign="top" dir="ltr" align="left" lang="en" style="padding:0 22px;text-align:left;border-right:1px solid #EDE4D3;"><div class="t1" style="font-family:'Segoe UI',Tahoma,Arial,sans-serif;color:#1C1917;font-size:14px;line-height:1.85;text-align:left;">We are pleased to introduce <strong style="color:#C77400;">GEODRILL KSA</strong>, a specialized engineering company based in Riyadh, operating in geotechnical, geological and geophysical investigations, as well as soil and construction materials testing. We serve government entities, contracting companies and engineering consultants with an integrated scope of work — from site investigation and testing, through design and analysis, to treatment and execution — delivered by a specialized engineering team and a fully equipped main laboratory in Riyadh, operating under ISO 9001, ISO 14001 and ISO 45001 certified management systems.</div></td>
 </tr></tbody></table>
   </td></tr>
 
@@ -171,7 +171,7 @@ u + #body a { color: inherit; text-decoration: none; }
 </tr></tbody></table></td></tr><tr><td style="padding:0 0 8px 0;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" dir="rtl" class="svc" style="background:#FFFFFF;border:1px solid #EDE4D3;border-right:4px solid #F39200;border-radius:8px;"><tbody><tr>
 <td class="stack" width="54%" valign="middle" dir="rtl" align="right" style="padding:11px 14px 11px 8px;text-align:right;font-family:'Segoe UI',Tahoma,Arial,sans-serif;font-size:14px;line-height:1.7;font-weight:700;color:#1C1917;"><span class="t1">أعمال المساحة والرفع الطبوغرافي</span></td>
 <td class="stack en-m" width="46%" valign="middle" dir="ltr" align="left" lang="en" style="padding:11px 14px 11px 8px;text-align:left;font-family:'Segoe UI',Tahoma,Arial,sans-serif;font-size:12.5px;line-height:1.55;font-weight:600;color:#57534E;"><span class="t2">Topographical &amp; Land Surveying</span></td>
-</tr></tbody></table></td></tr><tr><td style="padding:0 0 8px 0;"></td></tr><tr><td style="padding:0 0 8px 0;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" dir="rtl" class="svc" style="background:#FFFFFF;border:1px solid #EDE4D3;border-right:4px solid #F39200;border-radius:8px;"><tbody><tr>
+</tr></tbody></table></td></tr><tr><td style="padding:0 0 8px 0;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" dir="rtl" class="svc" style="background:#FFFFFF;border:1px solid #EDE4D3;border-right:4px solid #F39200;border-radius:8px;"><tbody><tr>
 <td class="stack" width="54%" valign="middle" dir="rtl" align="right" style="padding:11px 14px 11px 8px;text-align:right;font-family:'Segoe UI',Tahoma,Arial,sans-serif;font-size:14px;line-height:1.7;font-weight:700;color:#1C1917;"><span class="t1">الدراسات البيئية</span></td>
 <td class="stack en-m" width="46%" valign="middle" dir="ltr" align="left" lang="en" style="padding:11px 14px 11px 8px;text-align:left;font-family:'Segoe UI',Tahoma,Arial,sans-serif;font-size:12.5px;line-height:1.55;font-weight:600;color:#57534E;"><span class="t2">Environmental Survey Services</span></td>
 </tr></tbody></table></td></tr></tbody></table>
@@ -207,10 +207,10 @@ u + #body a { color: inherit; text-decoration: none; }
 <td class="stack" width="54%" valign="middle" dir="rtl" align="right" style="padding:11px 14px 11px 8px;text-align:right;font-family:'Segoe UI',Tahoma,Arial,sans-serif;font-size:14px;line-height:1.7;font-weight:700;color:#1C1917;"><span class="t1">تحسين التربة وإصلاح الخرسانة</span></td>
 <td class="stack en-m" width="46%" valign="middle" dir="ltr" align="left" lang="en" style="padding:11px 14px 11px 8px;text-align:left;font-family:'Segoe UI',Tahoma,Arial,sans-serif;font-size:12.5px;line-height:1.55;font-weight:600;color:#57534E;"><span class="t2">Soil Improvement &amp; Concrete Repair</span></td>
 </tr></tbody></table>
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" dir="rtl" class="svc" style="background:#FFFFFF;border:1px solid #EDE4D3;border-right:4px solid #F39200;border-radius:8px;"><tbody><tr>
+<tr><td style="padding:0 0 8px 0;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" dir="rtl" class="svc" style="background:#FFFFFF;border:1px solid #EDE4D3;border-right:4px solid #F39200;border-radius:8px;"><tbody><tr>
 <td class="stack" width="54%" valign="middle" dir="rtl" align="right" style="padding:11px 14px 11px 8px;text-align:right;font-family:'Segoe UI',Tahoma,Arial,sans-serif;font-size:14px;line-height:1.7;font-weight:700;color:#1C1917;"><span class="t1">الدراسات الهيدرولوجية والهيدروجيولوجية</span></td>
 <td class="stack en-m" width="46%" valign="middle" dir="ltr" align="left" lang="en" style="padding:11px 14px 11px 8px;text-align:left;font-family:'Segoe UI',Tahoma,Arial,sans-serif;font-size:12.5px;line-height:1.55;font-weight:600;color:#57534E;"><span class="t2">Hydrology &amp; Hydrogeological Studies</span></td>
-</tr></tbody></table></td></tr></tbody></table>
+</tr></tbody></table></td></tr></td></tr></tbody></table>
 </td></tr>
 
   <!-- Commitment -->
@@ -218,7 +218,7 @@ u + #body a { color: inherit; text-decoration: none; }
     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" class="soft" bgcolor="#FAF6EE" style="background:#FAF6EE;border-radius:10px;border:1px solid #EDE4D3;"><tbody><tr><td style="padding:14px 0;">
     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" dir="rtl"><tbody><tr>
 <td class="stack px" width="50%" valign="top" dir="rtl" align="right" style="padding:0 18px;text-align:right;"><div class="t2" style="font-family:'Segoe UI',Tahoma,Arial,sans-serif;color:#44403C;font-size:14px;line-height:2.0;text-align:justify;">نلتزم في جميع أعمالنا بأعلى معايير الجودة والدقة والسلامة، وبالبرامج الزمنية المتفق عليها، ونتطلع إلى بناء شراكة عمل مثمرة تدعم مشاريعكم الحالية والمستقبلية، ويسعدنا تزويدكم بعرض فني ومالي فور استلام تفاصيل مشروعكم.</div></td>
-<td class="stack px en" width="50%" valign="top" dir="ltr" align="left" lang="en" style="padding:0 18px;text-align:left;border-right:1px solid #EDE4D3;"><div class="t2" style="font-family:'Segoe UI',Tahoma,Arial,sans-serif;color:#44403C;font-size:13px;line-height:1.85;text-align:justify;">Across all our work, we are committed to the highest standards of quality, accuracy and safety, and to strict adherence to agreed timelines. We look forward to building a fruitful partnership that supports your current and future projects, and we will be glad to provide a technical and financial proposal upon receiving your project details.</div></td>
+<td class="stack px en" width="50%" valign="top" dir="ltr" align="left" lang="en" style="padding:0 18px;text-align:left;border-right:1px solid #EDE4D3;"><div class="t2" style="font-family:'Segoe UI',Tahoma,Arial,sans-serif;color:#44403C;font-size:13px;line-height:1.85;text-align:left;">Across all our work, we are committed to the highest standards of quality, accuracy and safety, and to strict adherence to agreed timelines. We look forward to building a fruitful partnership that supports your current and future projects, and we will be glad to provide a technical and financial proposal upon receiving your project details.</div></td>
 </tr></tbody></table>
     </td></tr></tbody></table>
   </td></tr>
@@ -286,7 +286,7 @@ u + #body a { color: inherit; text-decoration: none; }
     </tr></tbody></table>
     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" dir="ltr" style="margin-top:6px;"><tbody><tr>
       <td class="stack" valign="middle" dir="ltr" align="left" style="font-family:'Segoe UI',Tahoma,Arial,sans-serif;font-size:13px;line-height:1.9;color:#1E293B;text-align:left;">
-        <a href="tel:+966599897220" class="t1" style="color:#1E293B;text-decoration:none;font-weight:600;white-space:nowrap;">☎&nbsp; <span dir="ltr" style="unicode-bidi:embed;">+966 59 989 7220</span></a> &nbsp;&nbsp;
+        <a href="tel:+966599897220" class="t1" style="color:#1E293B;text-decoration:none;font-weight:600;white-space:nowrap;">📱&nbsp; <span dir="ltr" style="unicode-bidi:embed;">+966 59 989 7220</span></a> &nbsp;&nbsp;
         <a href="mailto:m.khamis@geodrillksa.com" class="t1" style="color:#1E293B;text-decoration:none;font-weight:600;white-space:nowrap;">✉&nbsp; m.khamis@geodrillksa.com</a> &nbsp;&nbsp;
         <a href="https://www.geodrillksa.com/" target="_blank" style="color:#C77400;text-decoration:none;font-weight:800;">www.geodrillksa.com</a>
       </td>
