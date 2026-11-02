@@ -44,7 +44,7 @@ u + #body a { color: inherit; text-decoration: none; }
 <meta name="format-detection" content="telephone=no,address=no,email=no,date=no,url=no">
 <meta name="color-scheme" content="light dark">
 <meta name="supported-color-schemes" content="light dark">
-<title>GEODRILL KSA — حلول جيوتقنية متكاملة | Integrated Geotechnical Solutions</title>
+<title>تعريف بشركة GEODRILL KSA | Introducing GEODRILL KSA — Geotechnical & Engineering Services</title>
 <!--[if mso]><noscript><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript>
 <style>table,td,div,p,a,span{font-family:Tahoma,Arial,sans-serif !important;}</style><![endif]-->
 
