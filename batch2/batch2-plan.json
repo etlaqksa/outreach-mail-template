@@ -1,0 +1,642 @@
+[
+ {
+  "n": 1,
+  "row": 22,
+  "file": "01-alarkan.txt",
+  "email": "info@alarkan.com",
+  "ar": "دار الأركان",
+  "en": "Dar Al Arkan",
+  "md5": "6f98592758cc4931bd4342a16fa43397",
+  "len": 72644,
+  "bounds": [
+   14837,
+   29764,
+   44760,
+   58214
+  ]
+ },
+ {
+  "n": 2,
+  "row": 23,
+  "file": "02-pankingdom.txt",
+  "email": "sales@pankingdom.com",
+  "ar": "شركة عبر المملكة العقارية",
+  "en": "Pan Kingdom Real Estate Company",
+  "md5": "ce07ac4ad3d34069aba5b50e8fc74f20",
+  "len": 72677,
+  "bounds": [
+   14870,
+   29797,
+   44793,
+   58247
+  ]
+ },
+ {
+  "n": 3,
+  "row": 30,
+  "file": "03-asasmakeen.txt",
+  "email": "info@asasmakeen.com",
+  "ar": "شركة أساس مكين للتطوير والاستثمار العقاري",
+  "en": "ASAS Makeen",
+  "md5": "f7b6397cfed3e9c2cbc8e01caaeaa13e",
+  "len": 72673,
+  "bounds": [
+   14866,
+   29793,
+   44789,
+   58243
+  ]
+ },
+ {
+  "n": 4,
+  "row": 32,
+  "file": "04-anan.txt",
+  "email": "info@anan.com.sa",
+  "ar": "شركة عنان العقارية",
+  "en": "Anan",
+  "md5": "74c8fd2dd2fb6a2b202be2a603a2c244",
+  "len": 72643,
+  "bounds": [
+   14836,
+   29763,
+   44759,
+   58213
+  ]
+ },
+ {
+  "n": 5,
+  "row": 34,
+  "file": "05-shasea.txt",
+  "email": "info@shasea.sa",
+  "ar": "شركة شاسع للتطوير العقاري",
+  "en": "Shasea Real Estate Development",
+  "md5": "b99ecc48e2a7c1b127dd2d84023a24c3",
+  "len": 72676,
+  "bounds": [
+   14869,
+   29796,
+   44792,
+   58246
+  ]
+ },
+ {
+  "n": 6,
+  "row": 35,
+  "file": "06-dhb.txt",
+  "email": "sales@dhbholding.com",
+  "ar": "شركة ذهب للتطوير العقاري",
+  "en": "DHB Real Estate Development Company",
+  "md5": "43d5a5d31f95a2705c77b9bc48d549fd",
+  "len": 72680,
+  "bounds": [
+   14873,
+   29800,
+   44796,
+   58250
+  ]
+ },
+ {
+  "n": 7,
+  "row": 36,
+  "file": "07-hadya.txt",
+  "email": "info@hadya.com",
+  "ar": "هادية",
+  "en": "HADYA",
+  "md5": "764194932867d1e0c6d167c9fd9ccbf8",
+  "len": 72631,
+  "bounds": [
+   14824,
+   29751,
+   44747,
+   58201
+  ]
+ },
+ {
+  "n": 8,
+  "row": 40,
+  "file": "08-kaal.txt",
+  "email": "info@kaal.sa",
+  "ar": "كال للتطوير العقاري",
+  "en": "Kaal Real Estate",
+  "md5": "29169988ef75221ae270b04be3a7836f",
+  "len": 72656,
+  "bounds": [
+   14849,
+   29776,
+   44772,
+   58226
+  ]
+ },
+ {
+  "n": 9,
+  "row": 41,
+  "file": "09-tatwer.txt",
+  "email": "info@tatwer.info",
+  "ar": "شركة تطوير الاستثمار للتجارة والمقاولات",
+  "en": "TATWEER Investment",
+  "md5": "0206014408fb7a54f12ffde8633be957",
+  "len": 72678,
+  "bounds": [
+   14871,
+   29798,
+   44794,
+   58248
+  ]
+ },
+ {
+  "n": 10,
+  "row": 43,
+  "file": "10-sadana.txt",
+  "email": "info@sadanare.sa",
+  "ar": "سدنة للتطوير والاستثمار العقاري",
+  "en": "Sadana Real Estate",
+  "md5": "2fd0b11cc9b88f8104fd6a411ac43e57",
+  "len": 72670,
+  "bounds": [
+   14863,
+   29790,
+   44786,
+   58240
+  ]
+ },
+ {
+  "n": 11,
+  "row": 44,
+  "file": "11-sadeen.txt",
+  "email": "info@sadeen.sa",
+  "ar": "شركة شهلاء العالمية التجارية",
+  "en": "SADEEN Living",
+  "md5": "151d62adf7a59c6ccaef58ea5a7bf698",
+  "len": 72662,
+  "bounds": [
+   14855,
+   29782,
+   44778,
+   58232
+  ]
+ },
+ {
+  "n": 12,
+  "row": 45,
+  "file": "12-atbar.txt",
+  "email": "info@atbar.sa",
+  "ar": "شركة اتبار للتطوير والاستثمار العقاري",
+  "en": "Atbar Real Estate",
+  "md5": "0a2e9b4cab2cf94abd4c2598400beebe",
+  "len": 72675,
+  "bounds": [
+   14868,
+   29795,
+   44791,
+   58245
+  ]
+ },
+ {
+  "n": 13,
+  "row": 49,
+  "file": "13-roshem.txt",
+  "email": "info@roshem.sa",
+  "ar": "شركة روشم للتطوير العقاري",
+  "en": "Roshem",
+  "md5": "228c62ae0b857c31f5960be5fcde6a35",
+  "len": 72652,
+  "bounds": [
+   14845,
+   29772,
+   44768,
+   58222
+  ]
+ },
+ {
+  "n": 14,
+  "row": 50,
+  "file": "14-domathah.txt",
+  "email": "info@domathah.com",
+  "ar": "شركة دماثة للتجارة والمقاولات",
+  "en": "Domathah",
+  "md5": "054087ad58f3ddf7e3d37fe2b48cd557",
+  "len": 72658,
+  "bounds": [
+   14851,
+   29778,
+   44774,
+   58228
+  ]
+ },
+ {
+  "n": 15,
+  "row": 53,
+  "file": "15-thimarya.txt",
+  "email": "info@thimarya.sa",
+  "ar": "ثمارية العقارية",
+  "en": "Thimarya Real Estate",
+  "md5": "154b1cf218e6400acc85afd42381238e",
+  "len": 72656,
+  "bounds": [
+   14849,
+   29776,
+   44772,
+   58226
+  ]
+ },
+ {
+  "n": 16,
+  "row": 54,
+  "file": "16-naya.txt",
+  "email": "info@nayarealty.sa",
+  "ar": "نايا العقارية",
+  "en": "Naya Real Estate",
+  "md5": "1b8a6ba8574e893626cf6e33a02368ab",
+  "len": 72650,
+  "bounds": [
+   14843,
+   29770,
+   44766,
+   58220
+  ]
+ },
+ {
+  "n": 17,
+  "row": 56,
+  "file": "17-rebare.txt",
+  "email": "info@rebare.co",
+  "ar": "رباع التطوير العقارية",
+  "en": "Reba Real Estate Development",
+  "md5": "beecb7f85d2e3cea4c26d6dca93e817d",
+  "len": 72670,
+  "bounds": [
+   14863,
+   29790,
+   44786,
+   58240
+  ]
+ },
+ {
+  "n": 18,
+  "row": 58,
+  "file": "18-almousa.txt",
+  "email": "info@almousadev.com",
+  "ar": "الموسى للتطوير العقاري",
+  "en": "Al Mousa Real Estate Development",
+  "md5": "3d89e28620f192ad2750030408ab6677",
+  "len": 72675,
+  "bounds": [
+   14868,
+   29795,
+   44791,
+   58245
+  ]
+ },
+ {
+  "n": 19,
+  "row": 60,
+  "file": "19-watheer.txt",
+  "email": "info@watheer-est.com",
+  "ar": "وثير للتطوير العقاري",
+  "en": "Watheer Real Estate",
+  "md5": "ccc485969c925ee3f90b8f4c93f667c4",
+  "len": 72660,
+  "bounds": [
+   14853,
+   29780,
+   44776,
+   58230
+  ]
+ },
+ {
+  "n": 20,
+  "row": 65,
+  "file": "20-dor.txt",
+  "email": "info@dor.sa",
+  "ar": "شركة دور العقارية",
+  "en": "Dor Real Estate",
+  "md5": "a65cddb0d75463e243509e72b255deb2",
+  "len": 72653,
+  "bounds": [
+   14846,
+   29773,
+   44769,
+   58223
+  ]
+ },
+ {
+  "n": 21,
+  "row": 66,
+  "file": "21-alalameya.txt",
+  "email": "info@alalameyared.com",
+  "ar": "الشركة العالمية للتطوير العقاري",
+  "en": "Al Alameya Real Estate Development",
+  "md5": "141127a57f87abc8b5db7aaec7a5a98e",
+  "len": 72686,
+  "bounds": [
+   14879,
+   29806,
+   44802,
+   58256
+  ]
+ },
+ {
+  "n": 22,
+  "row": 67,
+  "file": "22-abyatona.txt",
+  "email": "info@abyatona.com",
+  "ar": "شركة أبياتنا للتطوير والمقاولات",
+  "en": "Abyatona",
+  "md5": "7e488046893f7f48cb7b77a5c8a1e648",
+  "len": 72660,
+  "bounds": [
+   14853,
+   29780,
+   44776,
+   58230
+  ]
+ },
+ {
+  "n": 23,
+  "row": 68,
+  "file": "23-cafhb.txt",
+  "email": "info@cafhb.org.sa",
+  "ar": "تعاونية الإسكان بمنطقة الباحة",
+  "en": "Al Baha Housing Cooperative",
+  "md5": "2d3ea1f410b9c5c7305ce4bb683a33c0",
+  "len": 72677,
+  "bounds": [
+   14870,
+   29797,
+   44793,
+   58247
+  ]
+ },
+ {
+  "n": 24,
+  "row": 70,
+  "file": "24-maarej.txt",
+  "email": "info@maarejj.com",
+  "ar": "معارج العقارية",
+  "en": "Maarej Real Estate",
+  "md5": "e480121d9ee554834ad8600b42c60b50",
+  "len": 72653,
+  "bounds": [
+   14846,
+   29773,
+   44769,
+   58223
+  ]
+ },
+ {
+  "n": 25,
+  "row": 72,
+  "file": "25-crover.txt",
+  "email": "info@crover.com.sa",
+  "ar": "شركة كروفر",
+  "en": "Crover",
+  "md5": "d60878d6f2858a85098150b80c81d1e1",
+  "len": 72637,
+  "bounds": [
+   14830,
+   29757,
+   44753,
+   58207
+  ]
+ },
+ {
+  "n": 26,
+  "row": 73,
+  "file": "26-daralemaar.txt",
+  "email": "info@daralemaar.sa",
+  "ar": "دار الإعمار للتطوير العقاري",
+  "en": "Dar Al Emaar",
+  "md5": "4242b175e19e2e8d26575248b70e8508",
+  "len": 72660,
+  "bounds": [
+   14853,
+   29780,
+   44776,
+   58230
+  ]
+ },
+ {
+  "n": 27,
+  "row": 75,
+  "file": "27-alsaedan.txt",
+  "email": "info@alsaedan.com",
+  "ar": "شركة آل سعيدان للعقارات",
+  "en": "Al Saedan Real Estate",
+  "md5": "a96bff04b110f33c7389c0a941c599a1",
+  "len": 72665,
+  "bounds": [
+   14858,
+   29785,
+   44781,
+   58235
+  ]
+ },
+ {
+  "n": 28,
+  "row": 76,
+  "file": "28-rova.txt",
+  "email": "info@rova.com.sa",
+  "ar": "روفا للتطوير العقاري",
+  "en": "Rova Real Estate",
+  "md5": "bfc49c745b029ee8c19b34f9516a56cb",
+  "len": 72657,
+  "bounds": [
+   14850,
+   29777,
+   44773,
+   58227
+  ]
+ },
+ {
+  "n": 29,
+  "row": 77,
+  "file": "29-maskanemaar.txt",
+  "email": "maskanemaar@gmail.com",
+  "ar": "مسكن إعمار للتطوير العقاري",
+  "en": "Maskan Emar",
+  "md5": "36610be30c0b28e5a3ae8e3e659a0115",
+  "len": 72658,
+  "bounds": [
+   14851,
+   29778,
+   44774,
+   58228
+  ]
+ },
+ {
+  "n": 30,
+  "row": 21,
+  "file": "30-almashria.txt",
+  "email": "info@almashria.com",
+  "ar": "المشاريع الأولى القابضة",
+  "en": "First Projects Holding",
+  "md5": "f26ff3c18729152c76442567aa097d6d",
+  "len": 72666,
+  "bounds": [
+   14859,
+   29786,
+   44782,
+   58236
+  ]
+ },
+ {
+  "n": 31,
+  "row": 24,
+  "file": "31-numo.txt",
+  "email": "marketing@numorealestate.sa",
+  "ar": "شركة نمو الاقتصادية للتطوير والاستثمار العقاري",
+  "en": "Numo",
+  "md5": "c31181af3b7bb6c77111a71367f2039b",
+  "len": 72671,
+  "bounds": [
+   14864,
+   29791,
+   44787,
+   58241
+  ]
+ },
+ {
+  "n": 32,
+  "row": 48,
+  "file": "32-daraa.txt",
+  "email": "info@daraa.sa",
+  "ar": "دارا للتطوير العقاري",
+  "en": "Dara",
+  "md5": "2d8ce4dbb4581e3670035d2f0985a008",
+  "len": 72645,
+  "bounds": [
+   14838,
+   29765,
+   44761,
+   58215
+  ]
+ },
+ {
+  "n": 33,
+  "row": 27,
+  "file": "33-arabiandyar.txt",
+  "email": "customercare@arabiandyar.sa",
+  "ar": "شركة الديار العربية",
+  "en": "Arabian Dyar",
+  "md5": "ecc4f488f1261a3d8d51892aab1b5279",
+  "len": 72652,
+  "bounds": [
+   14845,
+   29772,
+   44768,
+   58222
+  ]
+ },
+ {
+  "n": 34,
+  "row": 28,
+  "file": "34-weejad.txt",
+  "email": "weejad@meras.pro",
+  "ar": "وجاد",
+  "en": "Weejad",
+  "md5": "6443c5e222791398a32eba2db18c6863",
+  "len": 72631,
+  "bounds": [
+   14824,
+   29751,
+   44747,
+   58201
+  ]
+ },
+ {
+  "n": 35,
+  "row": 37,
+  "file": "35-sorouhalkhayal.txt",
+  "email": "info@sorouh-alkhayal.com",
+  "ar": "شركة صروح الخيال للتطوير العقاري",
+  "en": "Sorouh Al Khayal",
+  "md5": "581b7e785c646d8f39c0e19e282ea047",
+  "len": 72669,
+  "bounds": [
+   14862,
+   29789,
+   44785,
+   58239
+  ]
+ },
+ {
+  "n": 36,
+  "row": 39,
+  "file": "36-aramak.txt",
+  "email": "info@aramak.com.sa",
+  "ar": "أراماك العقارية",
+  "en": "Aramak Real Estate",
+  "md5": "71ca5b35137b6850cbec425c7b5844ec",
+  "len": 72654,
+  "bounds": [
+   14847,
+   29774,
+   44770,
+   58224
+  ]
+ },
+ {
+  "n": 37,
+  "row": 59,
+  "file": "37-missan.txt",
+  "email": "info@missan.sa",
+  "ar": "شركة ميسان للتطوير العقاري",
+  "en": "Misan Real Estate Development Company",
+  "md5": "8c3ea6ef4809b372f9c4d1f4f6316a89",
+  "len": 72684,
+  "bounds": [
+   14877,
+   29804,
+   44800,
+   58254
+  ]
+ },
+ {
+  "n": 38,
+  "row": 62,
+  "file": "38-rayatalmaidan.txt",
+  "email": "info@rayatalmaidan.com",
+  "ar": "راية الميدان للتطوير والاستثمار العقاري",
+  "en": "Rayat Al-Maidan",
+  "md5": "72d1e7f7436a34153693100b5771792d",
+  "len": 72675,
+  "bounds": [
+   14868,
+   29795,
+   44791,
+   58245
+  ]
+ },
+ {
+  "n": 39,
+  "row": 63,
+  "file": "39-oz.txt",
+  "email": "info@ozcco.com.sa",
+  "ar": "عمر عبد الرحمن الزرعة وشركاه للتطوير العقاري",
+  "en": "OZ",
+  "md5": "52253bcbcc3a54eba60ef951f643c0a5",
+  "len": 72667,
+  "bounds": [
+   14860,
+   29787,
+   44783,
+   58237
+  ]
+ },
+ {
+  "n": 40,
+  "row": 78,
+  "file": "40-ajyadarabia.txt",
+  "email": "info@ajyadarabia.com",
+  "ar": "شركة أجياد العربية العقارية",
+  "en": "Ajyad Arabia Real Estate Company",
+  "md5": "ff82473d9d99cbb3ccf2a14e78be1b8b",
+  "len": 72680,
+  "bounds": [
+   14873,
+   29800,
+   44796,
+   58250
+  ]
+ }
+]
